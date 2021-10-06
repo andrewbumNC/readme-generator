@@ -21,6 +21,7 @@
 
 ## Description: 
 An easy way for developers to create readme files for their projects using the command line. 
+    * Video: https://watch.screencastify.com/v/N0DKGKP82I8UEAZ2vmnr
 
 ## Installation:
 Simple download the code and begin using. Make sure Inquirer is installed. 
